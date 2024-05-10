@@ -23,7 +23,6 @@ Execute the C Program for the desired output.
 NAME : AISHWARYA V REGISTER NUMBER : 212223220003
 
 ## Write a C program that illustrates two processes communicating using shared memory.
-
 ```
 #include <stdio.h>
 #include <sys/ipc.h>
@@ -54,7 +53,7 @@ int main()
 
 ## OUTPUT
 
-![image](https://github.com/aishaishwaryav/Linux-IPC-Shared-memory/assets/151565589/ea3b3521-3e60-4c07-937a-eea796be5fc1)
+![image](https://github.com/aishaishwaryav/Linux-IPC-Shared-memory/assets/151565589/5db88569-fae1-4592-8b17-60113b6a19a3)
 
 
 # RESULT:
